@@ -54,7 +54,18 @@ const questions = [
     "GNU Lesser General Public License v2.1",
     "GNU Lesser General Public License v3.0",
     "Mozilla Public License 2.0",
-    "The Unilicense",]}
+    "The Unilicense",]
+    },
+    {
+    type: "input",
+    name: "github",
+    message: "Please enter your GitHub Username."
+    },
+    {
+    type: "input",
+    name: "email",
+    message: "Please enter your email address."    
+    }
 ];
 
 // TODO: Create a function to write README file
