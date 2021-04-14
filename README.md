@@ -9,12 +9,8 @@
   ## Install Instructions:
   Run < npm init> and < npm i inquirer > to utilize this application.
   ## Usage:
-  Follow the prompts!
-  
-  
-
-
-
+  Follow the prompts!\
+  ![README](https://github.com/jenna4285/README/blob/main/Images/README%20Gif.gif)
   ## Guidelines to Contribute:
   Please create pull requests on GitHub to contribute.
   ## Test Instructions:
