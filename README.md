@@ -10,7 +10,7 @@
   Run < npm init> and < npm i inquirer > to utilize this application.
   ## Usage:
   Follow the prompts!
-  ![screenshot](./images/screenshot.png)
+  ![screenshot](<iframe src="https://drive.google.com/file/d/1LXpPxf2B2SxerEG-43keYlBrcF85DR8F/preview" width="640" height="480"></iframe>)
   ## Guidelines to Contribute:
   Please create pull requests on GitHub to contribute.
   ## Test Instructions:
