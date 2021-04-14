@@ -1,23 +1,20 @@
-# lkasjdf
+# README Generator
   ## Description:
-  lkasjdf
+  Utilzie the application to create a README markdown file by answering prompts in the terminal/bash.
   ## Table of Contents:
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
   ## Install Instructions:
-  l;kjasdf
+  Run < npm init> and < npm i inquirer > to utilize this application.
   ## Usage:
-  lkajsdf
+  Follow the prompts!
   ![screenshot](./images/screenshot.png)
   ## Guidelines to Contribute:
-  ;lkjasdf
+  Please create pull requests on GitHub to contribute.
   ## Test Instructions:
-  ;lkj
+  Make sure to test your code before creating a pull request.
   ## Questions:
-  Link to GitHub: github.com/lkajd
-  Contact me with questions at lkjadf 
-  ## Licenses:
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg)] 
-  (https://opensource.org/licenses/MIT)
+  Link to GitHub: github.com/jenna4285
+  Contact me with questions at jenna4285@yahoo.com  
